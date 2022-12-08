@@ -1,0 +1,9 @@
+History : 1800s heights
+the phenomenon of regression : the son's height tends to regress the mean.
+- least squares methods
+
+from sklearn.cross_validation import train_test_split
+
+has been changed to :
+
+from sklearn.model_selection import train_test_split
